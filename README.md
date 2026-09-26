@@ -5,3 +5,9 @@
     width="100%"
   >
 </p>
+
+### Hi, I'm Pineappler.
+
+I enjoy turning ideas about people, knowledge, and culture into agents, tools, and digital artifacts.
+
+*Design · Digital humanities · Computational social science*
