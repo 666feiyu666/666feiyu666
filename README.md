@@ -8,6 +8,6 @@
 
 ### Hi, I'm Pineappler.
 
-I enjoy turning ideas about people, knowledge, and culture into agents, tools, and digital artifacts.
+I enjoy learning about people, culture, and society, and bringing knowledge and ideas to life through agents, tools, and digital artifacts.
 
 *Design · Digital humanities · Computational social science*
