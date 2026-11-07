@@ -1,13 +1,13 @@
 <p align="center">
   <img
     src="./assets/profile-banner.png?v=1"
-    alt="I build things at the intersection of computation, design, and the humanities."
+    alt="I study and build things at the intersection of computation, design, and the humanities."
     width="100%"
   >
 </p>
 
 ### Hi, I'm Pineappler.
 
-I enjoy learning about people, culture, and society, and bringing these knowledge and ideas to life through agents, tools, and digital artifacts.
+I explore where computation, design, and the humanities meet, building agents, tools, and digital artifacts that bring ideas about people, culture, and society to life.
 
-*Design · Digital humanities · Computational social science*
+*Design · Digital humanities · Applied Philosophy*
